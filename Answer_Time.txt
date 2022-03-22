@@ -1,0 +1,5 @@
+Time.Growth : 3123.9 ПкС
+Time.Descending : 2863.1 ПкС
+Time.Random : 87180.5 ПкС
+Time.Step : 121643 ПкС
+Time.Quazy : 299719 ПкС
