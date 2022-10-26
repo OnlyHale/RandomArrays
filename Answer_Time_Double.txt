@@ -1,0 +1,5 @@
+Time.Growth :9822 Яъб
+Time.Descending :4484 Яъб
+Time.Random :214908 Яъб
+Time.Step :205058 Яъб
+Time.Quazy :285745 Яъб
